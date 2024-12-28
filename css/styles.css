@@ -1,0 +1,144 @@
+*{
+    margin: 0; 
+    padding: 0;
+    background-color: #f7cad0;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif,;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body, h1, h2, h3, p, a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #FEC9D7;
+    color: #333;
+    margin: 0;
+}
+
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+header {
+    background-color: #FF5883;
+    color: white;
+    padding: 1rem 0;
+    border-bottom: 5px solid #79D3BE;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #B9EEE1;
+}
+
+nav {
+    display: flex;
+    gap: 1rem;
+}
+
+nav a {
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #FEC9D7;
+}
+
+nav .active {
+    border-bottom: 2px solid #B9EEE1;
+}
+
+#intro {
+    padding: 2rem 0;
+    background-color: #79D3BE;
+    color: #333;
+    text-align: center;
+}
+
+#intro h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #FF5883;
+}
+
+#intro p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #39B89A;
+}
+.uni-logo {
+    position: absolute;
+    top: 10px; 
+    right: 10px; 
+    width: 110px; /* Aumenta el tamaño del logo */
+    height: auto;
+    display: block;
+}
+
+.uni-logo img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+    border-radius: 5px;
+}
+
+main {
+    flex: 1; 
+}
+
+footer {
+    background-color: #39B89A; 
+    padding: 10px 0; 
+    text-align: center; 
+    width: 100%;
+    position: relative; 
+}
+
+footer .social {
+    display: flex;
+    justify-content: center; 
+    gap: 15px; 
+   
+}
+
+footer .social a img {
+    width: 30px; 
+    height: 30px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+footer .social a img:hover {
+    transform: scale(1.2); 
+}
