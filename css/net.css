@@ -1,0 +1,88 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f7cad0; 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #B9EEE1;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5rem;
+}
+nav {
+    background-color: #FF5883;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #f7cad0;
+}
+footer .social {
+    display: flex;
+    justify-content: center; 
+    gap: 15px; 
+   
+}
+
+footer .social a img {
+    width: 30px; 
+    height: 30px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+footer .social a img:hover {
+    transform: scale(1.2); 
+}
+.partner {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 220px;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+}
+.net-section {
+    display: flex;
+    justify-content: space-between; 
+    flex-wrap: wrap;
+    padding: 20px;
+    gap: 20px; 
+}
+
+.partner img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+
+.partner:hover {
+    transform: scale(1.05);
+}
