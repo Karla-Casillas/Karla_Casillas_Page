@@ -1,7 +1,9 @@
-*{
+/* styles.css */
+* {
     margin: 0; 
     padding: 0;
-    background-color: #f7cad0;
+    font-family: 'Times New Roman', Times, serif;
+    /* Remove background-color here */
 }
 
 .main-container {
@@ -96,7 +98,7 @@ nav .active {
 #intro p {
     font-size: 1.2rem;
     line-height: 1.8;
-    color: #39B89A;
+    color: white;
 }
 .uni-logo {
     position: absolute;
