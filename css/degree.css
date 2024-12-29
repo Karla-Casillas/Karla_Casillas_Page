@@ -1,0 +1,43 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f7cad0; 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #B9EEE1;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5rem;
+}
+nav {
+    background-color: #FF5883;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #f7cad0;
+}
