@@ -1,0 +1,125 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f7cad0; 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #B9EEE1;
+    text-align: center;
+    padding: 20px;
+}
+nav {
+    background-color: #FF5883;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #f7cad0;
+}
+footer .social {
+    display: flex;
+    justify-content: center; 
+    gap: 15px; 
+   
+}
+
+footer .social a img {
+    width: 30px; 
+    height: 30px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+footer .social a img:hover {
+    transform: scale(1.2); 
+}
+
+#topic {
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #FEC9D7;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#topic h1 {
+    font-size: 2.5em;
+    color: rgb(180, 33, 33);
+    margin-bottom: 20px;
+}
+
+#topic p {
+    font-size: 1.2em;
+    color: white;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+.box-container {
+    background-color: rgb(180, 33, 33);
+    color: white;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.box-container h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+.image-grid img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.image-grid img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.image-grid img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px; /* Optional: to add rounded corners */
+}
