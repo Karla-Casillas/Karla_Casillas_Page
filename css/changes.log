@@ -1,0 +1,155 @@
+commit 9bc0ec45b5dd358c574f44aaee41983bec8de081
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Mon Dec 30 23:02:02 2024 +0100
+
+    adding new links to net
+
+commit cf3bb10b9dda52c13406a33c0c0f94a7911813ac
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Mon Dec 30 19:27:23 2024 +0100
+
+    minor changes
+
+commit df7366e4d9059c5936a2990c18779bde6033e1c8
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Mon Dec 30 19:20:31 2024 +0100
+
+    net 2
+
+commit 1af7ce4ed84f38dd3f89c26f3645ac6a5e37385a
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Mon Dec 30 19:19:35 2024 +0100
+
+    net
+
+commit 18331343a40aa4163724b60c13fbe3f38946bb75
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Mon Dec 30 19:17:15 2024 +0100
+
+    added the README file modifications to be accordingly to the DDD
+
+commit d0213c312eff4ca9d12a8a1eeed3609bf77486f9
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Mon Dec 30 18:17:37 2024 +0100
+
+    Adding the fce page and file to the practical work
+
+commit 2a323f43ab6c062a01339ef4f7164791a0979141
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Mon Dec 30 02:16:58 2024 +0100
+
+    modiefied degree
+
+commit 98900486b94c4f0ad7b19ce8020653ddc7c77965
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Mon Dec 30 00:51:08 2024 +0100
+
+    adding images to the degree section and creatig the fundamentals of c.e
+
+commit 205408a76efac3b77a1f91d6dff112a79236045b
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sun Dec 29 23:50:20 2024 +0100
+
+    added the degree link to other pages and cretaed a css folder for the degree and created degree section
+
+commit b33d91e792d92727eaaff1a85178b207340ecad4
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sun Dec 29 23:04:25 2024 +0100
+
+    added buttons and link for futher reading
+
+commit 7b4b517821c71d6cc3ef4bf5739e50d8ae8894e7
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sun Dec 29 22:55:02 2024 +0100
+
+    modified the topic section and added styles and images
+
+commit 99ad1a3861d5d3e3d0b9d624673e5c3d74315c4b
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sun Dec 29 21:42:38 2024 +0100
+
+    adding topic link to other pages and creating style and topic page
+
+commit 2399ac168e6e56a5507f09be2237e07f1c703544
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sun Dec 29 21:38:06 2024 +0100
+
+    modified README
+
+commit 289cc77e087de173993bed2893d966a7c934f2cc
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sun Dec 29 21:32:21 2024 +0100
+
+    adding style and creating about and adding file and adding photos
+
+commit 53b15b9ead4ae74f825ec5985cfd60203c388bb6
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 23:26:58 2024 +0100
+
+    added about page and styles
+
+commit afd478056304af91a440d786d485f04a52ba488b
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 22:36:45 2024 +0100
+
+    made various modifications and created about.html and about.css
+
+commit c3cf7da465873b0c5810bfc9776bd4b1bd5dea50
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 22:30:49 2024 +0100
+
+    adding net.html adding profile pics to images and net.css
+
+commit 52c43c88de7b7f805c9a399088905b5cf2806aae
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 21:55:26 2024 +0100
+
+    added changes to contact.html
+
+commit 5d935bbcd4df86e7b129624fe2481af4cd33f914
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 21:54:08 2024 +0100
+
+    adding modified index.html
+
+commit 0ea98642931e458157824a1cf4aec358d35a3906
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 21:50:46 2024 +0100
+
+    modified index.html
+
+commit 01c5f9f38e3b072b4e0413c665033125c01dea77
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 21:50:14 2024 +0100
+
+    added styles to contact and main
+
+commit fd02e6517bb6ed59d12d9462a27f6b66da898983
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 21:49:18 2024 +0100
+
+    added the public and contact
+
+commit 0fe634801c124ebb92b5ea4a2dc4a5e320913123
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 20:57:05 2024 +0100
+
+    adding images folder
+
+commit ea5bd2e45c8d8c995b16d24ff1ef254395268102
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 20:55:28 2024 +0100
+
+    content to homepage and styles and images
+
+commit ec124a0d04b2deb0cdbb4de3913e5cfcd04c6df0
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 13:18:21 2024 +0100
+
+    Adding the main page
+
+commit 930a90f69166875a4d6b378488f9b91fe346c6d7
+Author: Karla-Casillas <9406988@alumnos.ufv.es>
+Date:   Sat Dec 28 13:12:10 2024 +0100
+
+    Initial commit
