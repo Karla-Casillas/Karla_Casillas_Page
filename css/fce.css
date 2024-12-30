@@ -1,0 +1,124 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f7cad0; 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #B9EEE1;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5rem;
+}
+nav {
+    background-color: #FF5883;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #f7cad0;
+}
+footer .social {
+    display: flex;
+    justify-content: center; 
+    gap: 15px; 
+   
+}
+
+footer .social a img {
+    width: 30px; 
+    height: 30px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+footer .social a img:hover {
+    transform: scale(1.2); 
+}
+
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-left: 8px solid #FF5883;
+}
+
+
+
+
+.fce-content h1, .fce-content h2 {
+    text-align: center;
+    color: #FF5883;
+}
+
+.fce-content p, .fce-content ul {
+    margin: 15px 0;
+    padding: 10px;
+    background-color: #B9EEE1;
+    border-radius: 5px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #FF5883;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #FF91AD;
+    transform: scale(1.05);
+}
+
+.presentation-button {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.presentation-button .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #FF5883;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.presentation-button .btn:hover {
+    background-color: #d894a5;
+}
+
+
